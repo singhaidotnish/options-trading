@@ -60,3 +60,4 @@ Think of it like this:
 ---
 
 Do you want me to **sketch the payoff chart** for this combo (24900–25300 short straddle + wings at 24500 & 25600)? That will make the strategy visually ADHD-digestible.
+a
